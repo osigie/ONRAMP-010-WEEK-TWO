@@ -1,0 +1,314 @@
+.firstElement{
+    background-color: white;
+    position: relative;
+}
+
+.middleContainer{
+    display: flex;
+position: absolute;
+padding-top: 20px;
+top: 20px;
+}
+.form{
+    background-color: white;
+    margin: 170px 0 0 325px;
+    padding-bottom: 70px;
+    padding-top: 25px;
+}
+.pattern1{
+position: absolute;
+}
+.pattern2{
+    position: relative;
+    left: 650px;
+padding-top: 150px;}
+    
+.footer{
+    background-color:black;
+    margin-top: 800px;
+    width: 1250px;
+    position: absolute;
+    height: 200px;
+}
+.masterFooter{
+}
+.left{
+    color: white;
+    position: relative;
+    left: 200px;
+    margin-top: 70px;
+    width: 0px;
+}
+.middle{
+    color:white;
+    left: 400px;
+    position: relative;
+    margin-top: -30px;
+    width: 300px;
+}
+.right{
+    color: white;
+    left: 800px;
+    position: relative;
+    margin-top: -75px;
+    width: 300px;
+}
+.dine{
+    color: white;
+    margin: 0px 0 70px 100px;
+}
+.others{
+    color: white;
+    margin:20px 0 30px 100px ;
+}
+.form3{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid
+}
+
+.people{
+    display: flex;}
+
+   .imagess {
+    width: 1250px;
+   }
+
+.plus{
+width: 5px;
+height: 5px;
+left: 100px;
+padding-left: 120px;
+padding-top: 10px;
+}
+.minus{
+width: 5px;
+height: 2px;
+padding-top: 10px;
+padding-left: 70px;
+}
+.p4{
+    padding-top: 0px;
+    padding-left: 130px; 
+    margin-top: 0px;
+}
+.line{
+    border: 0px 0px 0.5px 0px;
+    border-width: 0.5px;
+    width: 400px;
+    margin:15px 5px 20px 40px  ;
+}
+.input{
+    border-color: white;
+}
+.form11{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+width: 400px;
+margin:30px 40px 15px 40px  ;
+}
+.form22{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 400px;
+    margin:15px 5px 20px 40px  ;
+}
+.form3{  background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 60px;
+    margin: 0 10px 0 50px;
+    text-align: center;
+}
+.form4{ background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 60px;
+    margin: 0 10px 0 5px;
+    text-align: center;}
+.form5{ background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 60px;
+    margin: 0 10px 0 5px;
+    text-align: center;}
+.form6{ background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 60px;
+    margin: 0 10px 0 50px;
+    text-align: center;}
+.form7{ background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 60px;
+    margin: 0 10px 0 5px;
+    text-align: center;}
+.form8{ background: transparent;
+    border: none;
+    border-bottom: 1px solid;
+    width: 45px;
+    margin: 0 10px 0 5px;
+padding-left: 10px;
+position: absolute;}
+
+.makeRes{
+    margin:20px 40px 20px 40px ;
+    width: 400px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+.date{margin: 20px 40px 40px 40px;
+
+}
+.time{margin: 30px 10px 40px 40px;
+
+}
+.amImg{
+    margin-left: 15px;
+    left: 30px;
+    position: relative;
+    width: 15px;
+}
+@media (max-width:768px){
+    .footer{
+        background-color:black;
+        margin-top: 350px;
+        width: 100%;
+        position: absolute;
+        height: 240px;}
+        .left{
+            color: white;
+            position: relative;
+            left: 50px;
+            margin-top: 40px;
+        }
+        .middle{
+            color:white;
+            left: 150px;
+            position: relative;
+            margin-top: -30px;
+            margin-bottom: 30px;
+        }
+        .right{
+            color: white;
+            left: 150px;
+            position: relative;
+            margin-top: 5px;}
+            .form{
+                background-color: white;
+                margin: 600px 20000px 0 2px;
+                padding-bottom: 70px;
+                padding-top: 25px;
+            }
+            .middleContainer{
+                display: flex;
+            position: absolute;
+            padding-top: 20px;
+            top: 20px;
+            width: 10%;
+            }
+            .firstElement{
+                background-color: white;
+                position: relative;
+                width: 100%;
+            }
+            .middleContainer{
+                display: flex;
+            position: absolute;
+            padding-top: 20px;
+            top: 20px;
+            width: 100%;}
+            .imagess {
+                width: 100%;
+               }}
+
+
+
+
+               @media (max-width:768px){
+               .footer{
+                background-color:black;
+                margin-top: 700px;
+                width: 365px;
+                position: absolute;
+                height: 240px;}
+                .left{
+                    color: white;
+                    position: relative;
+                    left: 50px;
+                    margin-top: 40px;
+                }
+                .middle{
+                    color:white;
+                    left: 150px;
+                    position: relative;
+                    margin-top: -30px;
+                    margin-bottom: 30px;
+                }
+                .right{
+                    color: white;
+                    left: 150px;
+                    position: relative;
+                    margin-top: 5px;}
+                    .form{
+                        background-color: white;
+                        padding-bottom: 10px;
+                        padding-top: 0px;
+                        height: 700px;
+                        margin: 0px 200px 100px 10px;
+                       left: -450px;
+                        position: relative;
+                        top: 10px;
+                    
+                    }
+                    
+                    .imagess{
+                        height: 400px;
+            
+                    }
+                    .others{width: 300px;
+                        padding-left: -80px;
+                    }
+                    .firstElement{
+                        background-color: white;
+                        position: relative;
+                        width: 100%;
+                      
+                
+                    }
+                    .middleContainer{
+                        display: flex;
+                    position: absolute;
+                    padding-top: 20px;
+                    top: 20px;
+                    width: 100%;}
+                    .imagess {
+                        width: 100%;
+                       }
+                       .pattern{
+                           width: 0px;
+                           height: 0px;
+                       }
+                       .pattern1{
+                           width: 0px;
+                       }
+                       .pattern2{
+                           width: 0px;
+                       }
+                     
+                       .form1{
+                           height: 100px;
+                           width: 10000px;
+                           padding:20px 200px 20px 200px;
+                           position: relative;
+
+                       }
+                       .parentContainer{
+                        position: absolute;
+                    }
+
+                    }
